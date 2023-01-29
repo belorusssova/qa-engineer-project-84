@@ -1,0 +1,28 @@
+---
+- summary: |
+    Фильтрация товаров по категории
+  status: pass
+
+- summary: |
+    Фильтрация товаров по ключевому слову
+  status: pass
+  
+- summary: |
+    Фильтрация товаров по цене
+  status: pass
+    
+- summary: |
+    Фильтрация товаров по цвету
+  status: fail
+    
+- summary: |
+    Открытие карточки товара
+  status: pass
+    
+- summary: |
+    Успешное добавление товара в корзину
+  status: pass
+    
+- summary: |
+    Отображение добавленного товара в корзину
+  status: pass
