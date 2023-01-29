@@ -12,10 +12,6 @@
   status: pass
     
 - summary: |
-    Фильтрация товаров по цвету
-  status: fail
-    
-- summary: |
     Открытие карточки товара
   status: pass
     
